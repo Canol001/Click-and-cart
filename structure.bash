@@ -24,4 +24,6 @@ flask-ecommerce
 │── app.py                    # Main Flask application file
 │── config.py                 # Configuration file
 │── requirements.txt          # Dependencies
+|── runtime.txt               
+│── Procfile                  # Heroku deployment file
 │── README.md                 # Project documentation

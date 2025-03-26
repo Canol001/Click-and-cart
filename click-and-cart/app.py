@@ -1,3 +1,7 @@
+import os
+print("Current Working Directory:", os.getcwd())
+print("Files in Directory:", os.listdir())
+
 from flask import Flask, render_template, session, redirect, url_for, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 
