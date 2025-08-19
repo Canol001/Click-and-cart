@@ -1,1 +1,1 @@
-### An online shopper site
+### An online shopping site
